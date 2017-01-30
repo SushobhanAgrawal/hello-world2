@@ -14,8 +14,7 @@ Start menu.
 
 If you want to use the command-line-only file transfer utility PSCP,
 you will probably want to put the PuTTY installation directory on
-your PATH. On Windows 7 and similar versions, you can do this at
-Control Panel > System and Security > System > Advanced system
+your PATH. On Windows 7 and simrity > System > Advanced system
 settings > Environment Variables.
 
 Some versions of Windows will refuse to run HTML Help files (.CHM)
